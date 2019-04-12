@@ -12,7 +12,7 @@ We need to create a model predicting which class a particular message belongs to
  Topics reinforced while solving the project:
 
 
-    - [ ] Text preprocessing techniques like tokenization & vectorization.
+- [ ]     Text preprocessing techniques like tokenization & vectorization.
 - [ ]     Implementation of Logistic Regression, Naive Bayes and Linear SVM.
 - [ ]     Topic modelling with LSA (Latent Semantic Analysis) and LDA (Latent Dirichlet Allocation)
 - [ ]     Usage of coherence score to determine the optimum number of topics
